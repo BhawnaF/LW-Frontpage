@@ -1,0 +1,56 @@
+@media screen and (min-width:320px) and (max-width:480px) {
+   .container{ width: 80%; margin: 0 auto;} 
+   .flex-aligner{flex-direction: column;}
+   .partician-img,.moving-img{ display: none;}
+   .top-header-responsive{ display: block; text-align: center;}
+   .t-p-r, .navbar ul{display: none;}
+   .logo{ width: 70%; float: left;}
+   .logo-img { width: 100%; position: relative; top: 10px;}
+   .topnav{ display: block; float: right; position: relative; bottom: 40px;}
+   .topnav i{ font-size: 30px; color: #fff;}
+   .section-title,.section-content,.section-about .section-cont,.section-img,.course-box,
+   .team-box,.partner-box,.infra-box,.student-review{ width: 100%;}
+   .section-title-center h2{ text-align: center !important;}
+   .section-content{ top: 0;}
+   .section{ padding: 40px 0;}
+   .section-title h2{ text-align: left; font-size: 25px;}
+   .course-box,.choose-box{ margin: 15px 0;}
+}
+
+@media screen and (min-width:480px) and (max-width:768px) {
+    .container{ width: 80%; margin: 0 auto;} 
+    .partician-img,.moving-img{ display: none;}
+    .top-header-responsive{ display: block; text-align: center;}
+    .t-p-r{display: none;}
+    .logo{ width: 70%; float: left;}
+   .logo-img { width: 100%; position: relative; top: 10px;}
+   .topnav{ display: block; float: right; position: relative; bottom: 40px;}
+   .topnav i{ font-size: 30px; color: #fff;}
+   .section-title,.section-content,.section-about .section-cont,.section-img,.course-box
+   ,.team-box,.partner-box,.infra-box,.student-review { width: 100%;}
+   .section-title-center h2{ text-align: center !important;}
+   .course-box,.choose-box{ margin: 15px 0;}
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .container{ width: 80%; margin: 0 auto;} 
+    .partician-img,.moving-img{ display: none;}
+    .top-header-responsive{ display: block; text-align: center;}
+    .t-p-r{display: none;}
+    .logo{ width: 70%; float: left;}
+   .logo-img { width: 100%; position: relative; top: 10px;}
+   .topnav{ display: block; float: right; position: relative; bottom: 40px;}
+   .topnav i{ font-size: 30px; color: #fff;}
+   .section-title,.section-content,.section-about .section-cont,.section-img,.course-box 
+   ,.team-box,.partner-box,.infra-box,.student-review { width: 100%;}
+   .section-title-center h2{ text-align: center !important;}
+   .course-box,.choose-box { margin: 15px 0;}
+}
+
+@media screen and (min-width:1024px) and (max-width:120px) {
+    
+}
+
+@media screen and  (min-width:1200px) {
+    
+}
